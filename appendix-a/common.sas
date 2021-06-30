@@ -1,5 +1,5 @@
 libname source "C:\location_of_your_raw_source_data_from_appendix_a;
-libname library "C:\location_of_your_format_library)";
+libname library "C:\location_of_your_format_library";
 libname target "C:\location_of_your_sdtm_datasets";
 
 options ls=256 nocenter

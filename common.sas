@@ -1,6 +1,6 @@
 libname source "D:\SASShare\GitHub\implement-cdisc-using-sas\appendix-a";
 libname library "D:\SASShare\GitHub\implement-cdisc-using-sas";
-libname target "D:\SASShare\GitHub\implement-cdisc-using-sas";
+libname target "D:\SASShare\GitHub\implement-cdisc-using-sas\target";
 
 options ls=256 nocenter
 
